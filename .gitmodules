@@ -1,0 +1,57 @@
+[submodule "Repository/Day 1/Theory/developer-environment-setup"]
+	path = Repository/Day 1/Theory/developer-environment-setup
+	url = git@github.com:boolean-uk/developer-environment-setup.git
+[submodule "Repository/Day 1/Theory/java-fundamentals-day-1-workshop"]
+	path = Repository/Day 1/Theory/java-fundamentals-day-1-workshop
+	url = git@github.com:boolean-uk/java-fundamentals-day-1-workshop.git
+[submodule "Repository/Day 1/Ex/Optional/--force"]
+	path = Repository/Day 1/Ex/Optional/--force
+	url = git@github.com:boolean-uk/java-fundamentals-overview.git
+[submodule "Repository/Day 1/Ex/Optional/java-fundamentals-overview"]
+	path = Repository/Day 1/Ex/Optional/java-fundamentals-overview
+	url = git@github.com:boolean-uk/java-fundamentals-overview.git
+[submodule "Repository/developer-environment-setup"]
+	path = Repository/developer-environment-setup
+	url = git@github.com:boolean-uk/developer-environment-setup.git
+[submodule "Repository/Day 1/Theory/1 - developer environment setup"]
+	path = Repository/Day 1/Theory/1 - developer environment setup
+	url = https://github.com/boolean-uk/developer-environment-setup.git
+[submodule "Repository/Day 1/Theory/2 - boolean uk 1 fortnox doc"]
+	path = Repository/Day 1/Theory/2 - boolean uk 1 fortnox doc
+	url = https://github.com/boolean-uk/java-fundamentals-day-1-workshop.git
+[submodule "Repository/Day 1/Theory/2 - java fundamentals day 1 workshop"]
+	path = Repository/Day 1/Theory/2 - java fundamentals day 1 workshop
+	url = https://github.com/boolean-uk/java-fundamentals-day-1-workshop.git
+[submodule "Repository/Day 1/Ex/1 - java fundamentals overview"]
+	path = Repository/Day 1/Ex/1 - java fundamentals overview
+	url = https://github.com/boolean-uk/java-fundamentals-overview.git
+[submodule "Repository/Day 1/Ex/Optional/1 - java fundamentals overview"]
+	path = Repository/Day 1/Ex/Optional/1 - java fundamentals overview
+	url = https://github.com/boolean-uk/java-fundamentals-overview.git
+[submodule "Repository/Day 2/Theory/1 - java fundamentals lists and hashmaps workshop"]
+	path = Repository/Day 2/Theory/1 - java fundamentals lists and hashmaps workshop
+	url = https://github.com/boolean-uk/java-fundamentals-lists-and-hashmaps-workshop.git
+[submodule "Repository/Day 2/Ex/1 - java fundamentals lists"]
+	path = Repository/Day 2/Ex/1 - java fundamentals lists
+	url = https://github.com/boolean-uk/java-fundamentals-lists.git
+[submodule "Repository/Day 2/Ex/2 - java fundamentals maps"]
+	path = Repository/Day 2/Ex/2 - java fundamentals maps
+	url = https://github.com/boolean-uk/java-fundamentals-maps.git
+[submodule "Repository/Day 2/Ex/3 - java scrabble challenge"]
+	path = Repository/Day 2/Ex/3 - java scrabble challenge
+	url = https://github.com/boolean-uk/java-scrabble-challenge.git
+[submodule "Repository/Day 3/Theory/1 - java tdd domain modelling"]
+	path = Repository/Day 3/Theory/1 - java tdd domain modelling
+	url = https://github.com/boolean-uk/java-tdd-domain-modelling.git
+[submodule "Repository/Day 3/Ex/1 - java tdd todo list"]
+	path = Repository/Day 3/Ex/1 - java tdd todo list
+	url = https://github.com/boolean-uk/java-tdd-todo-list.git
+[submodule "Repository/Day 4/Theory/1 - java tdd oop encapsulation"]
+	path = Repository/Day 4/Theory/1 - java tdd oop encapsulation
+	url = https://github.com/boolean-uk/java-tdd-oop-encapsulation.git
+[submodule "Repository/Day 4/Theory/2 - java tdd oop abstraction"]
+	path = Repository/Day 4/Theory/2 - java tdd oop abstraction
+	url = https://github.com/boolean-uk/java-tdd-oop-abstraction.git
+[submodule "Repository/Day 4/Ex/1 - java tdd oop bobs bagels"]
+	path = Repository/Day 4/Ex/1 - java tdd oop bobs bagels
+	url = https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git
