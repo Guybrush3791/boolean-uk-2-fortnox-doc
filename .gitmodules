@@ -55,3 +55,6 @@
 [submodule "Repository/Day 4/Ex/1 - java tdd oop bobs bagels"]
 	path = Repository/Day 4/Ex/1 - java tdd oop bobs bagels
 	url = https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git
+[submodule "Repository/Day 2/LC/1 - Java Collection - LC"]
+	path = Repository/Day 2/LC/1 - Java Collection - LC
+	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-collection-lc.git
