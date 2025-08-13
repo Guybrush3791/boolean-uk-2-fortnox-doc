@@ -9,6 +9,12 @@
 ![Obsidian Open Vault](__assets/images/obsidian-open-vault.png)
 Clone or fork the repository, and then open the folder with [Obsidian.md](https://obsidian.md/)
 
+> [!info] External Submodules
+> If you miss some external submodule repo content, just issue following command in order to populate them:
+> ```sh
+> git submodule update --init --recursive
+> ```
+
 ## [OPTIONAL] Obsidian Plug-in
 ![Obsidian Trust Author](__assets/images/obsidian-trust-author.png)
 
