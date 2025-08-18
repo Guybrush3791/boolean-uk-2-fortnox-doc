@@ -58,3 +58,6 @@
 [submodule "Repository/Day 2/LC/1 - Java Collection - LC"]
 	path = Repository/Day 2/LC/1 - Java Collection - LC
 	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-collection-lc.git
+[submodule "Repository/Day 4/Lc/1 - encapsulation lc"]
+	path = Repository/Day 4/Lc/1 - encapsulation lc
+	url = https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git
