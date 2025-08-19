@@ -5,6 +5,9 @@ lesson count: "2"
 ex count: "0"
 ---
 # Polymorphism & Inheritance
+## LC
+[Repository link](https://github.com/Guybrush3791/boolean-uk-2-fortnox-inheritance-and-polymorphism.git)
+
 ## Lessons
 ### Inheritance
 **Inheritance** is a fundamental object-oriented programming concept that allows a class to acquire properties and behaviors from another class. The class that inherits is called the **child class** or **subclass**, while the class being inherited from is called the **parent class** or **superclass**.
