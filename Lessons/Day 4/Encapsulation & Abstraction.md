@@ -1,4 +1,14 @@
+---
+argument: encapsulation, abstraction
+section: oop
+lesson count: "2"
+ex count: "1"
+---
 # Encapsulation & Abstraction
+## LC
+### Encapsulation
+[Repository link](https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git)
+
 ## Lessons
 ### Encapsulation
 **Encapsulation** is the bundling of data (attributes) and methods that operate on that data within a single unit (class). It's a fundamental Object-Oriented Programming principle that **hides the internal implementation details** and controls access to the data through well-defined methods.

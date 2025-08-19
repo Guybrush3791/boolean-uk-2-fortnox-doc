@@ -61,3 +61,9 @@
 [submodule "Repository/Day 4/Lc/1 - encapsulation lc"]
 	path = Repository/Day 4/Lc/1 - encapsulation lc
 	url = https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git
+[submodule "Repository/Day 5/Theory/1 - Polymorphism"]
+	path = Repository/Day 5/Theory/1 - Polymorphism
+	url = https://github.com/boolean-uk/java-tdd-oop-polymorphism.git
+[submodule "Repository/Day 5/Theory/2 - Inheritance"]
+	path = Repository/Day 5/Theory/2 - Inheritance
+	url = https://github.com/boolean-uk/java-tdd-oop-inheritance.git

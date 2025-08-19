@@ -1,3 +1,9 @@
+---
+argument: collection framework
+section: java core
+lesson count: "1"
+ex count: "3"
+---
 # Collection Framework
 The Java Collections Framework is a unified architecture of interfaces and classes for storing and manipulating groups of objects, offering standard operations like add, remove, search, sort, and iteration within the java.util package. It is built around core interfaces—Collection (root), with **List**, **Set**, and **Queue** extending it—while **Map** is part of the framework but does not extend Collection. Common implementations include **ArrayList** and **LinkedList** for List, **HashSet** and **TreeSet** for Set, **PriorityQueue** and **ArrayDeque** for Queue, and **HashMap**, **LinkedHashMap**, and **TreeMap** for Map. [[1](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)]
 

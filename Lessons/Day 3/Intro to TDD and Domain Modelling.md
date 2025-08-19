@@ -1,3 +1,9 @@
+---
+argument: intro TDD, domain modelling
+section: java core
+lesson count: "1"
+ex count: "1"
+---
 # Intro to TDD and Domain Modelling
 **Test-Driven Development (TDD)** is a software development methodology where tests are written before the actual code, following a repetitive cycle called **Red-Green-Refactor**. This approach reverses the traditional development process by starting with test cases that define the desired behavior of the code.
 

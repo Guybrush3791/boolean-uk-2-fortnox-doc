@@ -3,5 +3,6 @@
   "textFontFamily": "Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }
