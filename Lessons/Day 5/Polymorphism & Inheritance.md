@@ -6,7 +6,12 @@ ex count: "0"
 ---
 # Polymorphism & Inheritance
 ## LC
-[Repository link](https://github.com/Guybrush3791/boolean-uk-2-fortnox-inheritance-and-polymorphism.git)
+
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/8bPDgpuo0iJz3a8Tc7p5Zb0MWTTAKTQcCmq5TIzXwNiikZCsWrQVsVy95i_ubmtd.89F23p88ippj33zJ" frameborder="0" allowfullscreen></iframe> </div>
+
+- [Video link](https://us02web.zoom.us/rec/share/8bPDgpuo0iJz3a8Tc7p5Zb0MWTTAKTQcCmq5TIzXwNiikZCsWrQVsVy95i_ubmtd.89F23p88ippj33zJ)
+- [Repository link](https://github.com/Guybrush3791/boolean-uk-2-fortnox-inheritance-and-polymorphism.git)
 
 ## Lessons
 ### Inheritance

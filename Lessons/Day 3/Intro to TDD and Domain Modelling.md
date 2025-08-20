@@ -9,6 +9,12 @@ ex count: "1"
 
 ![[TDD - Red-Green-Refactor|1200]]
 ## LC
+
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/play/aThx3LRcxQGT5AcB1yDtQlqZIJdM-YF1xH44Tkwmg3HCNCzVCiHJkG962uMbomULUiiB-_EVpPun0yr1.WbnQdHiZNl1rmKl1?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fxqv8T9AbM-ukJ9NCc6Ic9qLOt6QhNz30RqF7DERrbWIYjHkqnrC5o8iaayJda3hx.9iy3w9kf8RvdHm8N" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/play/aThx3LRcxQGT5AcB1yDtQlqZIJdM-YF1xH44Tkwmg3HCNCzVCiHJkG962uMbomULUiiB-_EVpPun0yr1.WbnQdHiZNl1rmKl1?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fxqv8T9AbM-ukJ9NCc6Ic9qLOt6QhNz30RqF7DERrbWIYjHkqnrC5o8iaayJda3hx.9iy3w9kf8RvdHm8N)
+
 ### Lesson
 
 | Classes         | Methods                        | Scenario                                                                                        | Outputs                  |
