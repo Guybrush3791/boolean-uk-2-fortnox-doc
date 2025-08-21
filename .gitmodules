@@ -82,3 +82,6 @@
 [submodule "Repository/Day 7/Theory/1 - Spring Boot, Controllers, Annotations"]
 	path = Repository/Day 7/Theory/1 - Spring Boot, Controllers, Annotations
 	url = https://github.com/boolean-uk/java-api-counter-workshop.git
+[submodule "Repository/Day 7/LC/1 - Spring Intro"]
+	path = Repository/Day 7/LC/1 - Spring Intro
+	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-intro.git
