@@ -91,3 +91,15 @@
 [submodule "Repository/Day 8/Ex/1 - Java API Requests & Responses"]
 	path = Repository/Day 8/Ex/1 - Java API Requests & Responses
 	url = https://github.com/boolean-uk/java-api-requests-responses.git
+[submodule "Repository/Day 3/LC/1 - TDD domain model"]
+	path = Repository/Day 3/LC/1 - TDD domain model
+	url = https://github.com/Guybrush3791/java-tdd-domain-modelling.git
+[submodule "Repository/Day 3/LC/2 - Scrabble Ex"]
+	path = Repository/Day 3/LC/2 - Scrabble Ex
+	url = https://github.com/Guybrush3791/java-scrabble-challenge.git
+[submodule "Repository/Day 8/LC/1 - REST + OpenAPI"]
+	path = Repository/Day 8/LC/1 - REST + OpenAPI
+	url = https://github.com/Guybrush3791/java-api-requests-responses-workshop-1.git
+[submodule "Repository/Day 4/LC/1 - Encapsulation + Abstraction"]
+	path = Repository/Day 4/LC/1 - Encapsulation + Abstraction
+	url = https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git

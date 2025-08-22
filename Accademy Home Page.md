@@ -15,5 +15,15 @@
 **Day of the week** *Monday* to *Friday*
 **Date** from *August 12th* to *September 22th* (final project not included)
 
+## Lessons
+- Day 01: [[Intro + Env Setup]]
+- Day 02: [[Lessons/Day 2/Collection Framework|Collection Framework]]
+- Day 03: [[Intro to TDD and Domain Modelling]]
+- Day 04: [[Encapsulation & Abstraction]]
+- Day 05: [[Polymorphism & Inheritance]]
+- Day 06: [[Challenge Day]]
+- Day 07: [[Spring Boot, Controllers, Annotations]]
+- Day 08: [[REST, OpenAPI Specs, Request & Response payloads]]
+
 ## Additional notes
 - [link to this documentation repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
