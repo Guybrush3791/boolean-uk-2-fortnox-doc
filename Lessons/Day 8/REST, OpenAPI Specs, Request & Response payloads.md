@@ -5,6 +5,12 @@ lesson count: "1"
 ex count: "1"
 ---
 # REST, OpenAPI Specs, Request & Response payloads
+## LC
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/ahTAhZ2E98SGPfo_EqDMwMNmZl-9Geg-vONVs_IiudL0mmJ4aJ9PUA49W5XYg4Zz.Ylss_OjGjcBssJAw" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/ahTAhZ2E98SGPfo_EqDMwMNmZl-9Geg-vONVs_IiudL0mmJ4aJ9PUA49W5XYg4Zz.Ylss_OjGjcBssJAw)
+[Repository link](https://github.com/Guybrush3791/java-api-requests-responses-workshop-1.git)
 ## Lesson
 ### RESTful APIs
 **RESTful APIs** are application programming interfaces that follow the principles of **REST (Representational State Transfer)** architecture, providing a standardized way for different software systems to communicate over the internet.[[1](https://aws.amazon.com/what-is/restful-api/)]
