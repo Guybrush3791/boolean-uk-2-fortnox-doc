@@ -1,5 +1,5 @@
 {
-  "hidden": false,
+  "hidden": true,
   "hiddenList": [
     "__assets",
     "README.md"

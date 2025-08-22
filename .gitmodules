@@ -85,3 +85,9 @@
 [submodule "Repository/Day 7/LC/1 - Spring Intro"]
 	path = Repository/Day 7/LC/1 - Spring Intro
 	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-intro.git
+[submodule "Repository/Day 8/Theory/1 - Java Requests and Responses"]
+	path = Repository/Day 8/Theory/1 - Java Requests and Responses
+	url = https://github.com/boolean-uk/java-api-requests-responses-workshop.git
+[submodule "Repository/Day 8/Ex/1 - Java API Requests & Responses"]
+	path = Repository/Day 8/Ex/1 - Java API Requests & Responses
+	url = https://github.com/boolean-uk/java-api-requests-responses.git

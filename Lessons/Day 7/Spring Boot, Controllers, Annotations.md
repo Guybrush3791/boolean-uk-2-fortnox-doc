@@ -1,3 +1,9 @@
+---
+argument: SpringBoot intro, Rest Controller and Annotation
+section: springboot
+lesson count: "1"
+ex count: "1"
+---
 # Spring Boot, Controllers, Annotations
 
 ![[springboot-logo.png|600]]
