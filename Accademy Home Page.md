@@ -26,5 +26,5 @@
 - Day 08: [[REST, OpenAPI Specs, Request & Response payloads]]
 - Day 09: [[MVC with an in-memory data store]]
 
-## Additional notes
-- [link to this documentation repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
+## Additional link
+- [this doc repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
