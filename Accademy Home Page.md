@@ -24,6 +24,7 @@
 - Day 06: [[Challenge Day]]
 - Day 07: [[Spring Boot, Controllers, Annotations]]
 - Day 08: [[REST, OpenAPI Specs, Request & Response payloads]]
+- Day 09: [[MVC with an in-memory data store]]
 
 ## Additional notes
 - [link to this documentation repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)

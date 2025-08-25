@@ -103,3 +103,9 @@
 [submodule "Repository/Day 4/LC/1 - Encapsulation + Abstraction"]
 	path = Repository/Day 4/LC/1 - Encapsulation + Abstraction
 	url = https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git
+[submodule "Repository/Day 9/Theory/1 - Java API - MVC - In Memory"]
+	path = Repository/Day 9/Theory/1 - Java API - MVC - In Memory
+	url = https://github.com/boolean-uk/java-api-mvc-in-memory-workshop.git
+[submodule "Repository/Day 9/Ex/1 - Java API - MVC - In Memory"]
+	path = Repository/Day 9/Ex/1 - Java API - MVC - In Memory
+	url = https://github.com/boolean-uk/java-api-mvc-in-memory.git
