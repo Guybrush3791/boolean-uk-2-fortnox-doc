@@ -109,3 +109,6 @@
 [submodule "Repository/Day 9/Ex/1 - Java API - MVC - In Memory"]
 	path = Repository/Day 9/Ex/1 - Java API - MVC - In Memory
 	url = https://github.com/boolean-uk/java-api-mvc-in-memory.git
+[submodule "Repository/Day 9/LC/1 - MVC"]
+	path = Repository/Day 9/LC/1 - MVC
+	url = https://github.com/Guybrush3791/boolean-uk-2-java-mvc.git
