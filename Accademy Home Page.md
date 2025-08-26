@@ -25,6 +25,7 @@
 - Day 07: [[Spring Boot, Controllers, Annotations]]
 - Day 08: [[REST, OpenAPI Specs, Request & Response payloads]]
 - Day 09: [[MVC with an in-memory data store]]
+- Day 10: [[Data modeling and introduction to SQL]]
 
 ## Additional link
 - [this doc repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
