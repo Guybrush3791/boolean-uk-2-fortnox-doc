@@ -10,13 +10,44 @@ ex count: "2"
 ```toml 
 [flyway]
 environment = "local"
-locations = ["filesystem:/"]  # Path to your migration scripts
+locations = ["filesystem:/home/projects/test1/migration"]  # Path to your migration scripts
 
 [environments.local]
 url = "jdbc:postgresql://localhost:4432/test1"  # JDBC URL for localhost PostgreSQL
 user = "admin"
 password = "admin"
 defaultSchema = true
+```
+
+`V2_0_0__create_tables.sql`
+```sql
+-- Authors (1 side)
+CREATE TABLE authors (
+id   SERIAL PRIMARY KEY,
+name VARCHAR(50) NOT NULL
+);
+
+-- Posts (N side of 1:N)
+CREATE TABLE posts (
+id        SERIAL PRIMARY KEY,
+author_id SERIAL NOT NULL REFERENCES authors(id),
+title     VARCHAR(100) NOT NULL,
+body      TEXT NOT NULL,
+created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tags
+CREATE TABLE tags (
+id   SERIAL PRIMARY KEY,
+name VARCHAR(30) UNIQUE NOT NULL
+);
+
+-- Junction table post_tags (N:M)
+CREATE TABLE post_tags (
+post_id SERIAL NOT NULL REFERENCES posts(id),
+tag_id  SERIAL NOT NULL REFERENCES tags(id),
+PRIMARY KEY (post_id, tag_id)
+);
 ```
 ## Lessons
 ### Relationships & JOINS in SQL
