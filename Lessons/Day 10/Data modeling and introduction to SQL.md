@@ -5,6 +5,11 @@ lesson count: "2"
 ex count: "2"
 ---
 # Data modeling and introduction to SQL
+## LC
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/3zv7sy0mdxuuP6_4dlXdpUi8fV2ciAHBg4w97k_LYbMQuH051xT_58k6bdhbUMND.rIomceLHLt5JEbsA" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/3zv7sy0mdxuuP6_4dlXdpUi8fV2ciAHBg4w97k_LYbMQuH051xT_58k6bdhbUMND.rIomceLHLt5JEbsA)
 ## Lessons
 ### PostGresSQL Installation
 ![[Containerized Database Strategies|1000]]

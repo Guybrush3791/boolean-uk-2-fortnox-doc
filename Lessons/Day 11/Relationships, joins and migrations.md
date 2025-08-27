@@ -6,6 +6,19 @@ ex count: "2"
 ---
 # Relationships, joins and migrations
 ## LC
+### Video Part 1
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/8GwqqUDRYpXCVcMDrGMpcZY0uqBcBVUJortRoQYa8ze7kE45I82bgg-nfTsHag.VBhNvJqoOtMVDxmp" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/8GwqqUDRYpXCVcMDrGMpcZY0uqBcBVUJortRoQYa8ze7kE45I82bgg-nfTsHag.VBhNvJqoOtMVDxmp)
+
+### Video Part 2
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/-Ohh4pScU8HT4wuQN90oeFxpsuoAJT_dSXQT0PhCzNzhvDc60sldWpY-i2gCgVYj.t7iovlHbVdst5pDP" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/-Ohh4pScU8HT4wuQN90oeFxpsuoAJT_dSXQT0PhCzNzhvDc60sldWpY-i2gCgVYj.t7iovlHbVdst5pDP)
+
+### Flyway Init
 - create database with name `test2`
 ```bash
 .
