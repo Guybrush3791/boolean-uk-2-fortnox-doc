@@ -5,6 +5,19 @@ lesson count: "2"
 ex count: "2"
 ---
 # Relationships, joins and migrations
+## LC
+`flyway.toml`
+```toml 
+[flyway]
+environment = "local"
+locations = ["filesystem:/home/guybrush/Store/Dev/Boolean/UK/Fortnox 2/Code/test/test1/migrations"]  # Path to your migration scripts
+
+[environments.local]
+url = "jdbc:postgresql://localhost:4432/test1"  # JDBC URL for localhost PostgreSQL
+user = "admin"
+password = "admin"
+defaultSchema = true
+```
 ## Lessons
 ### Relationships & JOINS in SQL
 #### Learning Objectives
