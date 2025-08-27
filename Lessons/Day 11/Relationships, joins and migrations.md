@@ -6,6 +6,13 @@ ex count: "2"
 ---
 # Relationships, joins and migrations
 ## LC
+- create database with name `test2`
+```bash
+.
+├── flyway.toml
+└── migrations
+    └── V2_0_0__create_tables.sql
+```
 `flyway.toml`
 ```toml 
 [flyway]
@@ -13,7 +20,7 @@ environment = "local"
 locations = ["filesystem:/home/projects/test1/migration"]  # Path to your migration scripts
 
 [environments.local]
-url = "jdbc:postgresql://localhost:4432/test1"  # JDBC URL for localhost PostgreSQL
+url = "jdbc:postgresql://localhost:4432/test2"  # JDBC URL for localhost PostgreSQL
 user = "admin"
 password = "admin"
 defaultSchema = true
