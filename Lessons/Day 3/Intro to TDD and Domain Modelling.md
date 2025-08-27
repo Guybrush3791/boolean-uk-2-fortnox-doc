@@ -53,12 +53,12 @@ I bought as well as the quantity, and a total cost of my basket.
 |            |                                         | if user has bough less then 10 items  | `-1`                                      |
 
 ### Repositories
-- [TDD domain model](https://github.com/Guybrush3791/java-tdd-domain-modelling.git)
-- [Scrabble Ex](https://github.com/Guybrush3791/java-scrabble-challenge.git)
+- https://github.com/Guybrush3791/java-tdd-domain-modelling.git
+- https://github.com/Guybrush3791/java-scrabble-challenge.git
 ## Lesson
-[Repository link](https://github.com/boolean-uk/java-tdd-domain-modelling.git)
+https://github.com/boolean-uk/java-tdd-domain-modelling.git
 ![[Repository/Day 3/Theory/1 - java tdd domain modelling/README|Java TDD Domain Modelling]]
 
 ## Exercise
-[Repository link](https://github.com/boolean-uk/java-tdd-todo-list)
+https://github.com/boolean-uk/java-tdd-todo-list
 ![[Repository/Day 3/Ex/1 - java tdd todo list/README|Java TDD ToDo List]]

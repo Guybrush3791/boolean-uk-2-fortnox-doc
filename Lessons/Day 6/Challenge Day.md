@@ -6,5 +6,5 @@ ex count: "1"
 ---
 # Challenge Day
 ## Java Bank Challange
-[Repository link](https://github.com/boolean-uk/java-tdd-oop-bank-challenge.git)
+https://github.com/boolean-uk/java-tdd-oop-bank-challenge.git
 ![[Repository/Day 6/Ex/1 - Bank Challenge/README]]

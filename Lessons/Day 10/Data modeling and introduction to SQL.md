@@ -220,8 +220,8 @@ For extra drills, complete SQLBolt lessons from “SELECT queries 101” through
 
 ## Excercise
 ### Data Modelling
-[Repository link](https://github.com/boolean-uk/java-data-modelling.git)
+https://github.com/boolean-uk/java-data-modelling.git
 ![[Repository/Day 10/Ex/1 - Data Modelling/README]]
 ### Intro SQL
-[Repository link](https://github.com/boolean-uk/api-sql-intro.git)
+https://github.com/boolean-uk/api-sql-intro.git
 ![[Repository/Day 10/Ex/2 - Api SQL Intro/README]]

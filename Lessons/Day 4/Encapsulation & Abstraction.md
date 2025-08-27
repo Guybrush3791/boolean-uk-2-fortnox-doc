@@ -12,7 +12,7 @@ ex count: "1"
 [Video link](https://us02web.zoom.us/rec/share/YLD8Ypw-WweURzMjeKcsn3c21sFB6jYhFqzaNhtwxqEVYWSghA6FiRGBO4VrdakU.68gUt8zM-XJxt1R5)
 
 ### Encapsulation
-[Repository link](https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git)
+https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git
 
 ## Lessons
 ### Encapsulation
@@ -20,7 +20,7 @@ ex count: "1"
 
 ![[Encapsulation|600]]
 
-[Repository link](https://github.com/boolean-uk/java-tdd-oop-encapsulation.git)
+https://github.com/boolean-uk/java-tdd-oop-encapsulation.git
 ![[Repository/Day 4/Theory/1 - java tdd oop encapsulation/README|Java TDD OOP Encapsulation]]
 
 Then for the Afternoon Exercise introduce them to Bob's Bagels (the OOP version) but make clear that they'll be continuing it on Monday and Tuesday so it doesn't need to be completed today:
@@ -30,11 +30,11 @@ Then for the Afternoon Exercise introduce them to Bob's Bagels (the OOP version)
 
 ![[Abstraction|1200]]
 
-[Repository link](https://github.com/boolean-uk/java-tdd-oop-abstraction.git)
+https://github.com/boolean-uk/java-tdd-oop-abstraction.git
 ![[Repository/Day 4/Theory/2 - java tdd oop abstraction/README|Java TDD OOP Abstraction]]
 
 ## Ex
-[Repository link](https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git)
+https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git
 ![[Repository/Day 4/Ex/1 - java tdd oop bobs bagels/README|java TDD OOP Bobs Bagels]]
 
 ---
