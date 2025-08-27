@@ -10,7 +10,7 @@ ex count: "2"
 ```toml 
 [flyway]
 environment = "local"
-locations = ["filesystem:/home/guybrush/Store/Dev/Boolean/UK/Fortnox 2/Code/test/test1/migrations"]  # Path to your migration scripts
+locations = ["filesystem:/"]  # Path to your migration scripts
 
 [environments.local]
 url = "jdbc:postgresql://localhost:4432/test1"  # JDBC URL for localhost PostgreSQL
