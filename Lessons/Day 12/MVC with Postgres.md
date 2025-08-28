@@ -5,6 +5,19 @@ lesson count: "1"
 ex count: "1"
 ---
 # MVC with Postgres
+## LC
+
+### Dependencies
+
+```gradle
+// postgres driver
+implementation("org.postgresql:postgresql:42.7.7")
+
+// lombok
+implementation("org.projectlombok:lombok:1.18.38")
+annotationProcessor 'org.projectlombok:lombok:1.18.38'
+testAnnotationProcessor 'org.projectlombok:lombok:1.18.38'
+```
 ## Lesson
 ### Lombok
 
