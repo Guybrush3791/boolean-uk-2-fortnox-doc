@@ -7,17 +7,31 @@ ex count: "1"
 # MVC with Postgres
 ## LC
 
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/32oPx8UXhIL-CIJcLOteLz0G9YuncuEayPph0vZ4CbQODmoU-e5m8va6OGCKu8Cz.vw8yi5dALVvvxRy1" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/32oPx8UXhIL-CIJcLOteLz0G9YuncuEayPph0vZ4CbQODmoU-e5m8va6OGCKu8Cz.vw8yi5dALVvvxRy1)
+https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-postgres-lombok.git
+
 ### Dependencies
 
+From [MVN repository](https://mvnrepository.com/)
 ```gradle
-// postgres driver
-implementation("org.postgresql:postgresql:42.7.7")
-
-// lombok
-implementation("org.projectlombok:lombok:1.18.38")
-annotationProcessor 'org.projectlombok:lombok:1.18.38'
-testAnnotationProcessor 'org.projectlombok:lombok:1.18.38'
+dependencies {
+	// ...
+	
+	// postgres driver
+	implementation("org.postgresql:postgresql:42.7.7")
+	
+	// lombok
+	implementation("org.projectlombok:lombok:1.18.38")
+	annotationProcessor 'org.projectlombok:lombok:1.18.38'
+	testAnnotationProcessor 'org.projectlombok:lombok:1.18.38'
+}
 ```
+
+> [!note] Lombok IntelliJ Activation
+> You have to install *Lombok plugin* in order to give visibility to method generated from this library
 ## Lesson
 ### Lombok
 
@@ -38,8 +52,8 @@ Here's a list of the most commonly used Lombok annotations, ordered roughly by p
 Less common but notable annotations include `@With` for immutable field updates and others like `@SneakyThrows` for specific scenarios. Usage depends on project needs, such as *Hibernate* integration where pitfalls like improper `equals`/`hashCode` generation should be avoided.
 
 ### Postgres in Java 
-[Repository link](https://github.com/boolean-uk/java-api-mvc-with-postgres-workshop.git)
+https://github.com/boolean-uk/java-api-mvc-with-postgres-workshop.git
 ![[Repository/Day 12/Theory/1 - MVC with Postres/README]]
 ## Exercise
-[Repository link](https://github.com/boolean-uk/java-api-mvc-with-postgres.git)
+https://github.com/boolean-uk/java-api-mvc-with-postgres.git
 ![[Repository/Day 12/Ex/1 - MVC with Postgres/README]]

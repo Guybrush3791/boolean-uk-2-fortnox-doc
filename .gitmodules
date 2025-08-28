@@ -133,3 +133,6 @@
 [submodule "Repository/Day 12/Ex/1 - MVC with Postgres"]
 	path = Repository/Day 12/Ex/1 - MVC with Postgres
 	url = https://github.com/boolean-uk/java-api-mvc-with-postgres.git
+[submodule "Repository/Day 12/Lc/1 - SpringBoot, Postgres and Lombok"]
+	path = Repository/Day 12/Lc/1 - SpringBoot, Postgres and Lombok
+	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-postgres-lombok.git
