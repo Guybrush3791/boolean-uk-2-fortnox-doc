@@ -136,3 +136,9 @@
 [submodule "Repository/Day 12/Lc/1 - SpringBoot, Postgres and Lombok"]
 	path = Repository/Day 12/Lc/1 - SpringBoot, Postgres and Lombok
 	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-postgres-lombok.git
+[submodule "Repository/Day 13/Theory/1 - JPA and Repository - Part 1"]
+	path = Repository/Day 13/Theory/1 - JPA and Repository - Part 1
+	url = https://github.com/boolean-uk/java-api-jpa-hibernate-workshop.git
+[submodule "Repository/Day 13/Ex/1 - JPA and Repository - Part 1"]
+	path = Repository/Day 13/Ex/1 - JPA and Repository - Part 1
+	url = https://github.com/boolean-uk/java-api-jpa-hibernate.git
