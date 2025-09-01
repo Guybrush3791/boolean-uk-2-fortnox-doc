@@ -151,3 +151,6 @@
 [submodule "Repository/Day 14/Ex/1 - JPA and Repository - Part 2"]
 	path = Repository/Day 14/Ex/1 - JPA and Repository - Part 2
 	url = https://github.com/boolean-uk/java-api-jpa-hibernate-part2.git
+[submodule "Repository/Day 14/Lc/1 - SpringBoot JPA with relationship"]
+	path = Repository/Day 14/Lc/1 - SpringBoot JPA with relationship
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-springboot-jpa-rel.git
