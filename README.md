@@ -7,6 +7,7 @@
 ## Clone repository
 
 ![Obsidian Open Vault](__assets/images/obsidian-open-vault.png)
+
 Clone or fork the repository, and then open the folder with [Obsidian.md](https://obsidian.md/)
 
 ### 📓 External Submodules
