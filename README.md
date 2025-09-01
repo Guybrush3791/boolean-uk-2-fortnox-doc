@@ -2,7 +2,7 @@
 
   ![Obsidian.md](__assets/images/obsidian-main-img.png)
   
-  This repository is build for the [Obsidian.md](https://obsidian.md/). If you don't have it, please download through you application manager.
+  This repository is build for [Obsidian.md](https://obsidian.md/). If you don't have it, please download through you application manager.
 
 ## Clone repository
 
