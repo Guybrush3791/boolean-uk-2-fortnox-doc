@@ -6,15 +6,13 @@ ex count: "1"
 ---
 # MVC with Postgres
 ## LC
-
+### Video
 > [!note]- Video
 > <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/32oPx8UXhIL-CIJcLOteLz0G9YuncuEayPph0vZ4CbQODmoU-e5m8va6OGCKu8Cz.vw8yi5dALVvvxRy1" frameborder="0" allowfullscreen></iframe> </div>
 
 [Video link](https://us02web.zoom.us/rec/share/32oPx8UXhIL-CIJcLOteLz0G9YuncuEayPph0vZ4CbQODmoU-e5m8va6OGCKu8Cz.vw8yi5dALVvvxRy1)
-https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-postgres-lombok.git
 
 ### Dependencies
-
 From [MVN repository](https://mvnrepository.com/)
 ```gradle
 dependencies {
@@ -32,6 +30,9 @@ dependencies {
 
 > [!note] Lombok IntelliJ Activation
 > You have to install *Lombok plugin* in order to give visibility to method generated from this library
+
+### Repository
+https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-postgres-lombok.git
 ## Lesson
 ### Lombok
 

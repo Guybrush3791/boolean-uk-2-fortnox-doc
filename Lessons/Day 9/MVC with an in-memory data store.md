@@ -6,10 +6,13 @@ ex count: "1"
 ---
 # MVC with an in-memory data store
 ## LC
+### Video
 > [!note]- Video
 > <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/lEg3eVetGZzsb2qu3u0NpX8X95L6geehnole8z9bvMYBLmjDAxLa1afhjKAdVhpr.zqGb-RH4btaILv1O" frameborder="0" allowfullscreen></iframe> </div>
 
 [Video link](https://us02web.zoom.us/rec/share/lEg3eVetGZzsb2qu3u0NpX8X95L6geehnole8z9bvMYBLmjDAxLa1afhjKAdVhpr.zqGb-RH4btaILv1O)
+
+### Repository
 https://github.com/Guybrush3791/boolean-uk-2-java-mvc.git
 
 ## Lessons

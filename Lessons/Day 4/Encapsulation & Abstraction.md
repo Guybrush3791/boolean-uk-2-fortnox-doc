@@ -6,12 +6,13 @@ ex count: "1"
 ---
 # Encapsulation & Abstraction
 ## LC
+### Video
 > [!note]- Video
 > <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/YLD8Ypw-WweURzMjeKcsn3c21sFB6jYhFqzaNhtwxqEVYWSghA6FiRGBO4VrdakU.68gUt8zM-XJxt1R5" frameborder="0" allowfullscreen></iframe> </div>
 
 [Video link](https://us02web.zoom.us/rec/share/YLD8Ypw-WweURzMjeKcsn3c21sFB6jYhFqzaNhtwxqEVYWSghA6FiRGBO4VrdakU.68gUt8zM-XJxt1R5)
 
-### Encapsulation
+### Repository
 https://github.com/Guybrush3791/boolean-uk-2-encapsulation-lc.git
 
 ## Lessons

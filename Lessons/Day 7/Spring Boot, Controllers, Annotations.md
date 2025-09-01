@@ -8,11 +8,13 @@ ex count: "1"
 
 ![[springboot-logo.png|600]]
 ## LC
-### SpringBoot
+### Video
 > [!note]- Video
 > <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/-ZCY_2haXxafXoI4cIjpDu_MX9oP5VWBagSqtp5lh6kOT-RS77cdnFD-q2xnLDA.dJ8tH2LEyp2E6KHn" frameborder="0" allowfullscreen></iframe> </div>
 
 [Video link](https://us02web.zoom.us/rec/share/-ZCY_2haXxafXoI4cIjpDu_MX9oP5VWBagSqtp5lh6kOT-RS77cdnFD-q2xnLDA.dJ8tH2LEyp2E6KHn)
+
+### Repository
 https://github.com/Guybrush3791/boolean-uk-2-fortnox-spring-intro.git
 
 ## Lesson
