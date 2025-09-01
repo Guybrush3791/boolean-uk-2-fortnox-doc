@@ -32,4 +32,5 @@
 **Day** `14` [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
 
 ## Additional link
-- [this doc repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
+You can find this documentation at the following repository
+https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git
