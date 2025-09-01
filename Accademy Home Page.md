@@ -28,7 +28,7 @@
 **Day `10`** [[Data modeling and introduction to SQL]]
 **Day `11`** [[Relationships, joins and migrations]]
 **Day `12`** [[MVC with Postgres]]
-**Day `13`** [[Spring JPA and repositories]]
+**Day `13`** [[Lessons/Day 13/Spring JPA and repositories]]
 
 ## Additional link
 - [this doc repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)

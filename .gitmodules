@@ -145,3 +145,9 @@
 [submodule "Repository/Day 13/LC/1 - SpringBoot JPA"]
 	path = Repository/Day 13/LC/1 - SpringBoot JPA
 	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-springboot-jpa.git
+[submodule "Repository/Day 14/Theory/1 - JPA and Repository - Part 2"]
+	path = Repository/Day 14/Theory/1 - JPA and Repository - Part 2
+	url = https://github.com/boolean-uk/java-api-jpa-hibernate-part2-workshop.git
+[submodule "Repository/Day 14/Ex/1 - JPA and Repository - Part 2"]
+	path = Repository/Day 14/Ex/1 - JPA and Repository - Part 2
+	url = https://github.com/boolean-uk/java-api-jpa-hibernate-part2.git
