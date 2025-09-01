@@ -29,7 +29,7 @@
 **Day `11`** [[Relationships, joins and migrations]]
 **Day `12`** [[MVC with Postgres]]
 **Day `13`** [[Spring JPA and repositories - part 1|Spring JPA and repositories - part 1]]
-Day `14` [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
+**Day** `14` [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
 
 ## Additional link
 - [this doc repository](https://github.com/Guybrush3791/boolean-uk-2-fortnox-doc.git)
