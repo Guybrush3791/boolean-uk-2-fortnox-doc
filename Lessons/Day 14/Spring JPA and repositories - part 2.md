@@ -9,8 +9,6 @@ ex count: "1"
 ### Video
 > [!note]- Video - part 1
 > <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/dTf6zpWi0JGJLqK0oRTW6iiY1MZ2Twa1zfDutYuq_XuUeFZOJcKZMwwz0N2S_nhi.riDDnKWxMuo4sFpM" frameborder="0" allowfullscreen></iframe> </div>
-> [!note]- Video - part 1
-> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/B_p6nLvS3I0GEZ3QhYzQdP5edwRjqrATdqvSA-R2Cc42qCi0fpdcMzt95KuxKLz_.je3m9e-Ytul3s9ar" frameborder="0" allowfullscreen></iframe> </div>
 
 [Video link - part 1](https://us02web.zoom.us/rec/share/dTf6zpWi0JGJLqK0oRTW6iiY1MZ2Twa1zfDutYuq_XuUeFZOJcKZMwwz0N2S_nhi.riDDnKWxMuo4sFpM)
 
