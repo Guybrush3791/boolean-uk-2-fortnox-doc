@@ -2,11 +2,12 @@
 
   ![Obsidian.md](__assets/images/obsidian-main-img.png)
   
-  This repository is build for the [Obsidian.md](https://obsidian.md/). If you don't have it, please download through you application manager.
+  This repository is build for [Obsidian.md](https://obsidian.md/). If you don't have it, please download through you application manager.
 
 ## Clone repository
 
 ![Obsidian Open Vault](__assets/images/obsidian-open-vault.png)
+
 Clone or fork the repository, and then open the folder with [Obsidian.md](https://obsidian.md/)
 
 ### 📓 External Submodules
