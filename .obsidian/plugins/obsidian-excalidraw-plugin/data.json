@@ -42,13 +42,13 @@
   "matchTheme": true,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
-  "defaultMode": "normal",
+  "defaultMode": "view",
   "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
-  "renderImageInMarkdownReadingMode": false,
-  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInMarkdownReadingMode": true,
+  "renderImageInHoverPreviewForMDNotes": true,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
@@ -456,8 +456,8 @@
     }
   },
   "laserSettings": {
-    "DECAY_LENGTH": 50,
-    "DECAY_TIME": 1000,
+    "DECAY_LENGTH": 100,
+    "DECAY_TIME": 2000,
     "COLOR": "#ff0000"
   },
   "embeddableMarkdownDefaults": {

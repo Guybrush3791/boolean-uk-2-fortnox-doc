@@ -3,12 +3,13 @@
   "open-vscode",
   "editor-width-slider",
   "emoji-shortcodes",
-  "code-styler",
   "url-into-selection",
   "obsidian-excalidraw-plugin",
   "custom-font-loader",
   "terminal",
   "zenmode",
   "OA-file-hider",
-  "github-link"
+  "github-link",
+  "codeblock-customizer",
+  "mousewheel-image-zoom"
 ]
