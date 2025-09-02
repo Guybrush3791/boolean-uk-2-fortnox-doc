@@ -1,4 +1,20 @@
 # Spring security and SSO
+
+## Lc
+### Video
+> [!note]- Video - part 1
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/fdhsOvm1VgFmygZgJx5YNlK0vb4AcnX_Y_K9VfyKqmh1J01xIYshb81HoDFCuAti.PXGRnX-bDPqDa0oM" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link - part 1](https://us02web.zoom.us/rec/share/fdhsOvm1VgFmygZgJx5YNlK0vb4AcnX_Y_K9VfyKqmh1J01xIYshb81HoDFCuAti.PXGRnX-bDPqDa0oM)
+
+> [!note]- Video - part 2
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/hI9k8pZoAPdZvoojZNQhdyS65BVstk5Q8B8LSwWuOjLMDwJfVi25rcEnxLV9WaYK.WHYRXsxsh3EOvqF0" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link - part 2](https://us02web.zoom.us/rec/share/hI9k8pZoAPdZvoojZNQhdyS65BVstk5Q8B8LSwWuOjLMDwJfVi25rcEnxLV9WaYK.WHYRXsxsh3EOvqF0)
+
+### Repository
+https://github.com/Guybrush3791/boolean-uk-1-fortnox-springboot-sso-auth.git
+
 ## SSO login and IdP
 
 ### SSO Login
