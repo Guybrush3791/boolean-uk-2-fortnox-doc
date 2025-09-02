@@ -38,12 +38,12 @@
 ### Boot Keycloak docker instance through *Portainer.io*
 To start a *Keycloak* instance, login into *portainer.io* webpage at [http://localhost:9000](http://localhost:9000)/[https://localhost:9443](https://localhost:9443), select local environment and open *Containers* page in the left side menu. Create a new container through `Add container` button in top right of the page and insert following data as shown in picture:
 
-| Key          | Value                            |
-| ------------ | -------------------------------- |
-| Name         | Keycloak                         |
-| Image        | quay.io/keycloak/keycloak:latest |
-| Port mapping | 8080 --> 8080                    |
-| Command      | start-dev                        |
+| Key          | Value                                                                       |
+| ------------ | --------------------------------------------------------------------------- |
+| Name         | Keycloak                                                                    |
+| Image        | quay.io/keycloak/keycloak:latest                                            |
+| Port mapping | 8080 --> 8080                                                               |
+| Command      | start-dev --bootstrap-admin-username admin --bootstrap-admin-password admin |
 
 ![[Create Keycloak container in Portainer.io|800]]
 
