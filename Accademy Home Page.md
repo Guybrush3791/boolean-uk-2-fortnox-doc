@@ -16,12 +16,18 @@
 **Date** from *August 12th* to *September 22th* (final project not included)
 
 ## 🧑‍🏫 Lessons
+
+### Java Core
 **Day `01`** [[Intro + Env Setup]]
 **Day `02`** [[Lessons/Day 2/Collection Framework|Collection Framework]]
 **Day `03`** [[Intro to TDD and Domain Modelling]]
 **Day `04`** [[Encapsulation & Abstraction]]
 **Day `05`** [[Polymorphism & Inheritance]]
-**Day `06`** [[Challenge Day]]
+
+---
+**Day `06`** [[Lessons/Day 6/Challenge Day|Challenge Day - 1]]
+
+### SpringBoot, Reactive and Database
 **Day `07`** [[Spring Boot, Controllers, Annotations]]
 **Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
 **Day `09`** [[MVC with an in-memory data store]]
@@ -31,6 +37,9 @@
 **Day `13`** [[Spring JPA and repositories - part 1|Spring JPA and repositories - part 1]]
 **Day `14`** [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
 **Day `15`** [[Spring security and SSO]]
+
+---
+**Day `16`** [[Lessons/Day 16/Challenge day|Challenge Day - 2]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
