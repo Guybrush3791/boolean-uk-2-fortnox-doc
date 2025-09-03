@@ -27,7 +27,7 @@
 ---
 **Day `06`** [[Lessons/Day 6/Challenge Day|Challenge Day - 1]]
 
-### SpringBoot, Reactive and Database
+### SpringBoot, Database, CI/CD and Reactive
 **Day `07`** [[Spring Boot, Controllers, Annotations]]
 **Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
 **Day `09`** [[MVC with an in-memory data store]]
@@ -40,6 +40,10 @@
 
 ---
 **Day `16`** [[Lessons/Day 16/Challenge day|Challenge Day - 2]]
+
+---
+
+**Day `17`** [[CI-CD with a Java application]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
