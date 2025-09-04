@@ -15,8 +15,8 @@ curl https://start.spring.io/starter.zip               \
   -d packageName=org.booleanuk.demo                    \
   -d packaging=jar                                     \
   -d javaVersion=21                                    \
-  -d dependencies=web,devtools,postgresql,data-jpa     \
-  -o $PROJECTNAME   .zip
+  -d dependencies=web,devtools                         \
+  -o $PROJECTNAME.zip
 ```
 
 ### Add automation `yaml` file
