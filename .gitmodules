@@ -166,3 +166,9 @@
 [submodule "Repository/Day 17/Lc/1 - GitHub Actions CI-CD"]
 	path = Repository/Day 17/Lc/1 - GitHub Actions CI-CD
 	url = https://github.com/Guybrush3791/booleanuk-fortnox-1-github-action.git
+[submodule "Repository/Day 15/Lc/1 - SpringBoot SSO auth"]
+	path = Repository/Day 15/Lc/1 - SpringBoot SSO auth
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-springboot-sso-auth.git
+[submodule "Repository/Day 18/Ex/1 - WebFlux - Mono"]
+	path = Repository/Day 18/Ex/1 - WebFlux - Mono
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-webflux-mono.git
