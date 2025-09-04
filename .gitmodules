@@ -163,3 +163,6 @@
 [submodule "Repository/Day 17/Ex/1 - GitHub actions CI-CD"]
 	path = Repository/Day 17/Ex/1 - GitHub actions CI-CD
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-github-actions-ci-cd.git
+[submodule "Repository/Day 17/Lc/1 - GitHub Actions CI-CD"]
+	path = Repository/Day 17/Lc/1 - GitHub Actions CI-CD
+	url = https://github.com/Guybrush3791/booleanuk-fortnox-1-github-action.git

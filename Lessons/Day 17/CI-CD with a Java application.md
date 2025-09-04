@@ -1,4 +1,14 @@
 # CI-CD with a Java application
+## LC
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/hfOpSnBPQRNT0C6uLaqi_vtjUJh2Nt-DhzV1yazNIiMO12m6Sc881wsPnHlK3d6-.VfLWNEP2n3ieKxEd" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/hfOpSnBPQRNT0C6uLaqi_vtjUJh2Nt-DhzV1yazNIiMO12m6Sc881wsPnHlK3d6-.VfLWNEP2n3ieKxEd)
+
+### Repository
+https://github.com/Guybrush3791/booleanuk-fortnox-1-github-action.git
+
 ## What is CI/CD?
 
 ### Continuous Integration (CI)
