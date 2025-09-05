@@ -2,7 +2,6 @@
 ## Legenda
 🔴 --> *ERROR*
 🟡 --> *SUGGESTION*
-🟢 --> *IMPROVEMENT* 
 
 ## 🔴 Use proper package tree
 ```sh file:"Proper package folder manager"
@@ -119,7 +118,7 @@ Even if in class we used `EntityAdminController` & `EntityPublicController` you 
 Using `Object` as datatype is the best way to lose control on type of data, use proper *DTO* instead, even on *query*
 ```java
 @Query(/*...*/)  
-List<CustomerValueDto> getCustomerTotalValues();
+List<CustomerValueDto> getCustomerTotalValues(int id);
 ```
 
 ## 🔴 Come back with `id` all the time
@@ -138,17 +137,18 @@ public List<CustomerDto.CustomerValueDto> getCustomersValue() {
 				.mapToLong(Product::getPrice)
 				.sum();
 				
-			return new CustomerDto.CustomerValueDto(customer.getName(), sum);
+			return new CustomerDto.CustomerValueDto(customer, sum);
 		})
 		.collect(java.util.stream.Collectors.toList());
 }
 ```
 SQL approach
 ```SQL
-SELECT c.id, sum(p.price)
+SELECT c.id, c.name, sum(p.price) AS "value"
 FROM customers c
 LEFT JOIN orders o ON c.id = o.customer_id 
 LEFT JOIN order_product op ON o.id = op.order_id 
 LEFT JOIN products p ON op.product_id = p.id
-group by c.id 
+GROUP BY c.id 
+WHERE c.id = ?
 ```

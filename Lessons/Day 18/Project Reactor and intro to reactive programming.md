@@ -1,6 +1,16 @@
 # Project Reactor and intro to reactive programming
 **[Project Reactor](https://projectreactor.io/)** is a fourth-generation reactive library built on the Reactive Streams specification for creating **non-blocking, asynchronous applications** on the *JVM*. It serves as a foundational technology for building efficient, scalable Java back-end systems that can handle *high-throughput* scenarios with *minimal resource consumption*.
 
+## LC
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/uqQp02-kgUA4d-hXOZgfuTbHnlQnHP4D0TUKC_7pM9xewbKqWp85vXwxkJYBB9r0.TbpnnYGORI2VGFUi" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/uqQp02-kgUA4d-hXOZgfuTbHnlQnHP4D0TUKC_7pM9xewbKqWp85vXwxkJYBB9r0.TbpnnYGORI2VGFUi)
+
+### Repository
+https://github.com/Guybrush3791/boolean-uk-2-fortnox-webflux-mono.git
+
 ## Core Purpose and Benefits
 *Project Reactor* addresses a fundamental problem in traditional Java backend applications:
 **Resource Efficiency**

@@ -76,13 +76,13 @@ public class MonoController {
 			.defaultIfEmpty(ResponseEntity.ok("hi guest"));
     }
 
-    @GetMapping("/delayed")
+    @GetMapping("delayed")
     public Mono<String> delayed() {
         return Mono.delay(Duration.ofMillis(2000)) // [!note] Delay simulation
 			.map(tick -> "ready after 2s");
     }
     
-    @GetMapping("/fromCallable")  
+    @GetMapping("fromCallable")  
 	public Mono<String> fromCallable() {  
 	  
 	    return Mono.fromCallable(() -> { // [!note] Define a callable method
