@@ -175,3 +175,6 @@
 [submodule "Repository/Day 18/Lc/1 - WebFlux Mono"]
 	path = Repository/Day 18/Lc/1 - WebFlux Mono
 	url = https://github.com/Guybrush3791/boolean-uk-2-fortnox-webflux-mono.git
+[submodule "Repository/Day 19/Ex/1 - WebFlux - Flux & Error"]
+	path = Repository/Day 19/Ex/1 - WebFlux - Flux & Error
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-webflux-flux.git

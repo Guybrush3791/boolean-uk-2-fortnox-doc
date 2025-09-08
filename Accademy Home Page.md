@@ -45,6 +45,7 @@
 
 **Day `17`** [[CI-CD with a Java application]]
 **Day `18`** [[Project Reactor and intro to reactive programming]]
+**Day `19`** [[Reactive streams and error handling]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
