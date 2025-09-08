@@ -277,4 +277,4 @@ public Mono<ResponseEntity<Restaurant>> waitForRestaurantOpen(@PathVariable int 
 ---
 
 # Links
-![[Lessons/Day 18/__blocks/Links]]
+![[Lessons/2 - Java Back-end/Day 18/__blocks/Links]]

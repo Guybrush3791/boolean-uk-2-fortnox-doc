@@ -132,4 +132,4 @@ To create new `PR` as always and check test execution. If all tests pass, you ca
 
 ---
 
-![[Lessons/Day 17/__block/Links]]
+![[Lessons/2 - Java Back-end/Day 17/__block/Links]]

@@ -91,4 +91,4 @@ Merges back to `main`, and then triggers an automated *CI/CD pipeline* that bui
 
 ---
 
-![[Lessons/Day 17/__block/Links]]
+![[Lessons/2 - Java Back-end/Day 17/__block/Links]]

@@ -18,34 +18,37 @@
 ## 🧑‍🏫 Lessons
 
 ### Java Core
-**Day `01`** [[Intro + Env Setup]]
-**Day `02`** [[Lessons/Day 2/Collection Framework|Collection Framework]]
-**Day `03`** [[Intro to TDD and Domain Modelling]]
-**Day `04`** [[Encapsulation & Abstraction]]
-**Day `05`** [[Polymorphism & Inheritance]]
+- **Day `01`** [[Intro + Env Setup]]
+- **Day `02`** [[Lessons/1 - Java Core/Day 2/Collection Framework|Collection Framework]]
+- **Day `03`** [[Intro to TDD and Domain Modelling]]
+- **Day `04`** [[Encapsulation & Abstraction]]
+- **Day `05`** [[Polymorphism & Inheritance]]
 
 ---
-**Day `06`** [[Lessons/Day 6/Challenge Day|Challenge Day - 1]]
+- **Day `06`** [[Lessons/1 - Java Core/Day 6/Challenge Day|Challenge Day - 1]]
 
-### SpringBoot, Database, CI/CD and Reactive
-**Day `07`** [[Spring Boot, Controllers, Annotations]]
-**Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
-**Day `09`** [[MVC with an in-memory data store]]
-**Day `10`** [[Data modeling and introduction to SQL]]
-**Day `11`** [[Relationships, joins and migrations]]
-**Day `12`** [[MVC with Postgres]]
-**Day `13`** [[Spring JPA and repositories - part 1|Spring JPA and repositories - part 1]]
-**Day `14`** [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
-**Day `15`** [[Spring security and SSO]]
-
----
-**Day `16`** [[Lessons/Day 16/Challenge day|Challenge Day - 2]]
+### Java Back-end
+- **Day `07`** [[Spring Boot, Controllers, Annotations]]
+- **Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
+- **Day `09`** [[MVC with an in-memory data store]]
+- **Day `10`** [[Data modeling and introduction to SQL]]
+- **Day `11`** [[Relationships, joins and migrations]]
+- **Day `12`** [[MVC with Postgres]]
+- **Day `13`** [[Spring JPA and repositories - part 1|Spring JPA and repositories - part 1]]
+- **Day `14`** [[Spring JPA and repositories - part 2|Spring JPA and repositories - part 2]]
+- **Day `15`** [[Spring security and SSO]]
 
 ---
+- **Day `16`** [[Lessons/2 - Java Back-end/Day 16/Challenge day|Challenge Day - 2]]
 
-**Day `17`** [[CI-CD with a Java application]]
-**Day `18`** [[Project Reactor and intro to reactive programming]]
-**Day `19`** [[Reactive streams and error handling]]
+---
+
+- **Day `17`** [[CI-CD with a Java application]]
+- **Day `18`** [[Project Reactor and intro to reactive programming]]
+- **Day `19`** [[Reactive streams and error handling]]
+
+### Front-end
+- **Day `20`** [[HTML, CSS, intro to javascript]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them

@@ -1,0 +1,17 @@
+# HTML, CSS, intro to JavaScript
+
+## Lesson
+### HTML & CSS
+1. [[HTML Elements & CSS selectors.pdf|HTML Elements & CSS selectors]]
+2. [[CSS.pdf|CSS]]
+
+### JS
+1. [[JavaScript intro.pdf|JavaScript intro]]
+2. [[Variables & Data Types.pdf|Variables & Data Types]]
+3. [[Strings.pdf|Strings]]
+4. [[Repository/Day 20/Theory/1 - JS variables/README|JS variables]]
+https://github.com/boolean-uk/js-fundamentals-variables.git
+
+## Exercise
+1. [[Repository/Day 20/Ex/1 - JS primitive datatype/README|JS primitive datatype]]
+https://github.com/boolean-uk/js-fundamentals-primitive-data-types.git

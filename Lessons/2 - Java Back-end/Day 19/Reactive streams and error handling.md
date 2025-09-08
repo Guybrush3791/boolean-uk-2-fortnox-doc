@@ -60,4 +60,4 @@ Developers moving from *imperative programming* to *reactive error handling* nee
 By embracing these practices, back-end systems built with *Project Reactor* and *Spring WebFlux* achieve **greater stability, scalability, and predictability** under both normal and failure conditions.
 
 # Links
-![[Lessons/Day 19/__blocks/Links]]
+![[Lessons/2 - Java Back-end/Day 19/__blocks/Links]]

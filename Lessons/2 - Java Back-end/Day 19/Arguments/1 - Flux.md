@@ -349,4 +349,4 @@ public class RaiderController {
 ```
 
 # Links
-![[Lessons/Day 19/__blocks/Links]]
+![[Lessons/2 - Java Back-end/Day 19/__blocks/Links]]

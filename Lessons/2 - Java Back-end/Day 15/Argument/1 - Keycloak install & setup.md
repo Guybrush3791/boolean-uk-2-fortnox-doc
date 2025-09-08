@@ -104,4 +104,4 @@ Once user is created, make sure you setup a password to perform the login: *User
 ---
 
 # Links
-![[Links]]
+![[Lessons/2 - Java Back-end/Day 15/__block/Links]]

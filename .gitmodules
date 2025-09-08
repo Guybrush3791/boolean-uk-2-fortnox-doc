@@ -178,3 +178,12 @@
 [submodule "Repository/Day 19/Ex/1 - WebFlux - Flux & Error"]
 	path = Repository/Day 19/Ex/1 - WebFlux - Flux & Error
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-webflux-flux.git
+[submodule "Repository/Day 20/Theory/1 - JS variables"]
+	path = Repository/Day 20/Theory/1 - JS variables
+	url = https://github.com/boolean-uk/js-fundamentals-variables.git
+[submodule "Repository/Day 20/Ex/1 - JS variables"]
+	path = Repository/Day 20/Ex/1 - JS variables
+	url = https://github.com/boolean-uk/js-fundamentals-variables.git
+[submodule "Repository/Day 20/Ex/1 - JS primitive datatype"]
+	path = Repository/Day 20/Ex/1 - JS primitive datatype
+	url = https://github.com/boolean-uk/js-fundamentals-primitive-data-types.git

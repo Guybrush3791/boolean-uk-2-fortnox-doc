@@ -2,7 +2,7 @@
 [[Project Reactor and intro to reactive programming]]
 
 # Arguments
-1. [[Lessons/Day 18/Arguments/1 - Mono|Mono]]
+1. [[1 - Mono|Mono]]
 
 # Exercise
 1. [[Repository/Day 18/Ex/1 - WebFlux - Mono/README|WebFlux - Mono]]

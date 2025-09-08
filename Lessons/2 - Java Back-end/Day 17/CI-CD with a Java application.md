@@ -29,4 +29,4 @@ https://github.com/Guybrush3791/booleanuk-fortnox-1-github-action.git
 ---
 
 # Links
-![[Lessons/Day 17/__block/Links]]
+![[Lessons/2 - Java Back-end/Day 17/__block/Links]]
