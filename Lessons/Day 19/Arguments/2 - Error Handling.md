@@ -35,7 +35,7 @@ public Mono<String> onErrorResumeDemo(@RequestParam(defaultValue = "timeout") St
 
 - `onErrorReturn`: emit a static fallback value and complete; best for simple defaults when context is not needed
 ```java file:ErrorController.java
-@GetMapping(value = "/on-error-return", produces = MediaType.APPLICATION_JSON_VALUE)  
+@GetMapping("/on-error-return")  
 public Mono<String> onErrorReturnDemo() {  
   
     return Mono.<String>error(new RuntimeException("boom"))  

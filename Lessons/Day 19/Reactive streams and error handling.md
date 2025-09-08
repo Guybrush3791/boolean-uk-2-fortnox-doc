@@ -1,7 +1,18 @@
 # Reactive streams and error handling
+
 **[Project Reactor](https://projectreactor.io/)** implements the **Reactive Streams specification**, enabling the creation of **non-blocking, asynchronous, and resilient applications** on the *JVM*. A key part of any reactive system is not only transforming and consuming *data streams*, but also *handling errors* gracefully without breaking the flow of data processing.
 
 Error handling in reactive programming is fundamentally different from traditional imperative error handling. Instead of **try-catch blocks at execution time**, reactive systems provide **declarative error handling operators** that allow developers to control failure recovery, fallback strategies, and propagation in a *stream-oriented context*.
+
+## LC
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/edgdTslkdBVYal2bIlBi_CHacHssVoRoC1uY9bkn-z2NCbiHRFcqslVCtmLcFSy7.OLZi3_l9gM5ACn7N" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/edgdTslkdBVYal2bIlBi_CHacHssVoRoC1uY9bkn-z2NCbiHRFcqslVCtmLcFSy7.OLZi3_l9gM5ACn7N)
+
+### Repository
+https://github.com/Guybrush3791/boolean-uk-2-fortnox-webflux-flux-and-error.git
 
 ## Core Purpose and Benefits
 Reactive Streams aim to address two critical aspects of high-throughput systems:

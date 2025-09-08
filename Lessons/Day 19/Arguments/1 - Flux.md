@@ -20,7 +20,7 @@ When expecting multiple results, use `Flux`, for single results, use `Mono`
 
 ## When to use Flux in WebFlux
 
-- Use `Flux` to return a *stream or list-like response reactively* (e.g., streaming database rows, server-sent events, or multiple items from an API). Use `Mono` for *single-item responses* like fetching one entity or sending an acknowledgment.[^6][^2]
+- Use `Flux` to return a *stream or list-like response reactively* (e.g., streaming database rows, server-sent events, or multiple items from an API). Use `Mono` for *single-item responses* like fetching one entity or sending an acknowledgment
 - Flux is ideal for high-concurrency, I/O-bound workloads where *non-blocking back-pressure* improve scalability and latency versus blocking stacks
 
 ## SpringBoot Project
