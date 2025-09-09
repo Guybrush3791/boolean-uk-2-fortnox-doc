@@ -1,5 +1,12 @@
 # HTML, CSS, intro to JavaScript
 
+## LC
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/MDYlIQExBsufgoO74XkNt2xxh4O4rm1LkONysk14EVjjHNAWtvW0SORKsnUTTkCC.OB-LK4vPmb5cpbhC" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/MDYlIQExBsufgoO74XkNt2xxh4O4rm1LkONysk14EVjjHNAWtvW0SORKsnUTTkCC.OB-LK4vPmb5cpbhC)
+
 ## Lesson
 ### HTML & CSS
 1. [[HTML Elements & CSS selectors.pdf|HTML Elements & CSS selectors]]
