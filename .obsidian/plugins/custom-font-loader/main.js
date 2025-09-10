@@ -37,19 +37,19 @@ var DEFAULT_SETTINGS = {
 };
 function get_default_css(font_family_name, css_class = ":root *") {
   return `${css_class} {
-		--font-default: ${font_family_name};
-		--default-font: ${font_family_name};
-		--font-family-editor: ${font_family_name};
-		--font-monospace-default: ${font_family_name},
-		--font-interface-override: ${font_family_name},
-		--font-text-override: ${font_family_name},
-		--font-monospace-override: ${font_family_name},	
+		--font-default: '${font_family_name}';
+		--default-font: '${font_family_name}';
+		--font-family-editor: '${font_family_name}';
+		--font-monospace-default: '${font_family_name}';
+		--font-interface-override: '${font_family_name}';
+		--font-text-override: '${font_family_name}';
+		--font-monospace-override: '${font_family_name}';	
 	}
 `;
 }
 function get_custom_css(font_family_name, css_class = ":root *") {
   return `${css_class} * {
-		font-family: ${font_family_name} !important;
+		font-family: '${font_family_name}' !important;
 		}`;
 }
 function arrayBufferToBase64(buffer) {
@@ -124,7 +124,7 @@ var FontPlugin = class extends import_obsidian.Plugin {
   }
   async load_css(font_file_name) {
     let css_string = "";
-    const font_family_name = font_file_name.split(".")[0];
+    const font_family_name = font_file_name.split(".")[0].toLowerCase();
     if (this.settings.custom_css_mode) {
       css_string = this.settings.custom_css;
     } else {
@@ -133,7 +133,7 @@ var FontPlugin = class extends import_obsidian.Plugin {
     if (this.settings.force_mode)
       css_string += `
 					* {
-						font-family: ${font_family_name} !important;
+						font-family: '${font_family_name}' !important;
 					}
 						`;
     applyCss(css_string, "custom_font_general");
@@ -287,7 +287,7 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
         });
       });
       if (this.plugin.settings.custom_css_mode) {
-        new import_obsidian.Setting(containerEl).setName("Custom CSS Style").setDesc("Input your custom css style").addTextArea(async (text) => {
+        new import_obsidian.Setting(containerEl).setName("Custom CSS Style").setDesc("Input your custom css style. Use the font filename without extension (in lowercase) as the font-family name. For example, if your font file is 'MyFont.ttf', use 'myfont' in your CSS.").addTextArea(async (text) => {
           text.onChange(async (new_value) => {
             this.plugin.settings.custom_css = new_value;
             await this.plugin.saveSettings();
@@ -297,7 +297,7 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
           if (this.plugin.settings.custom_css == "") {
             let font_family_name = "";
             try {
-              font_family_name = this.plugin.settings.font.split(".")[0];
+              font_family_name = this.plugin.settings.font.split(".")[0].toLowerCase();
             } catch (error) {
               console.log(error);
             }
@@ -311,7 +311,7 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
                 let final_str = "";
                 for (const file of files.files) {
                   const file_name = file.split("/")[2];
-                  const font_family = file_name.split(".")[0];
+                  const font_family = file_name.split(".")[0].toLowerCase();
                   final_str += "\n" + get_custom_css(
                     font_family,
                     "." + font_family
@@ -320,7 +320,27 @@ var FontSettingTab = class extends import_obsidian.PluginSettingTab {
                 text.setValue(final_str);
               }
             } else {
-              text.setValue(get_default_css(font_family_name));
+              const template = `/* Example CSS for your font: ${font_family_name} */
+
+/* Apply to all text */
+:root * {
+	--font-default: '${font_family_name}';
+	--default-font: '${font_family_name}';
+	--font-family-editor: '${font_family_name}';
+	--font-interface-override: '${font_family_name}';
+	--font-text-override: '${font_family_name}';
+}
+
+/* Example: Apply to custom CSS class */
+.custom-font * {
+	font-family: '${font_family_name}' !important;
+}
+
+/* Example: Apply to specific elements only */
+.custom-font h1, .custom-font h2, .custom-font h3 {
+	font-family: '${font_family_name}' !important;
+}`;
+              text.setValue(template);
             }
           } else {
             text.setValue(this.plugin.settings.custom_css);

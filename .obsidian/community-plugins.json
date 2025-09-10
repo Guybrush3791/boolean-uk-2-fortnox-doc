@@ -1,15 +1,15 @@
 [
-  "nerdfont-icon-picker",
-  "open-vscode",
-  "editor-width-slider",
-  "emoji-shortcodes",
-  "url-into-selection",
   "obsidian-excalidraw-plugin",
-  "custom-font-loader",
+  "url-into-selection",
+  "mousewheel-image-zoom",
+  "emoji-shortcodes",
   "terminal",
-  "zenmode",
+  "editor-width-slider",
+  "custom-font-loader",
+  "codeblock-customizer",
+  "open-vscode",
   "OA-file-hider",
   "github-link",
-  "codeblock-customizer",
-  "mousewheel-image-zoom"
+  "zenmode",
+  "nerdfont-icon-picker"
 ]
