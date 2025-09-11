@@ -50,6 +50,7 @@
 ### Front-end
 - **Day `20`** [[HTML, CSS, intro to javascript]]
 - **Day `21`** [[Bootstrap and DOM manipulation]]
+- **Day `22`** [[Figma and UI development]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
