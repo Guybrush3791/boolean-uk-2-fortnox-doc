@@ -202,3 +202,6 @@
 [submodule "Repository/Day 23/Ex/1 - JS DOM Green Grocers"]
 	path = Repository/Day 23/Ex/1 - JS DOM Green Grocers
 	url = https://github.com/boolean-uk/js-dom-greengrocers.git
+[submodule "Repository/Day 23/Lc/1 - JS advance"]
+	path = Repository/Day 23/Lc/1 - JS advance
+	url = https://github.com/Guybrush3791/boolean-uk-1-js-adv.git
