@@ -205,3 +205,9 @@
 [submodule "Repository/Day 23/Lc/1 - JS advance"]
 	path = Repository/Day 23/Lc/1 - JS advance
 	url = https://github.com/Guybrush3791/boolean-uk-1-js-adv.git
+[submodule "Repository/Day 24/Theory/1 - React Immutable State"]
+	path = Repository/Day 24/Theory/1 - React Immutable State
+	url = https://github.com/boolean-uk/react-immutable-state.git
+[submodule "Repository/Day 24/Ex/1 - React Twitter Props"]
+	path = Repository/Day 24/Ex/1 - React Twitter Props
+	url = https://github.com/boolean-uk/react-twitter-props.git
