@@ -53,6 +53,7 @@
 - **Day `22`** [[Figma and UI development]]
 - **Day `23`** [[Javascript and JS DOM pt.2]]
 - **Day `24`** [[Introduction to React, components, state and props]]
+- **Day `25`** [[React controlled and uncontrolled elements]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
