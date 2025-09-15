@@ -211,3 +211,6 @@
 [submodule "Repository/Day 24/Ex/1 - React Twitter Props"]
 	path = Repository/Day 24/Ex/1 - React Twitter Props
 	url = https://github.com/boolean-uk/react-twitter-props.git
+[submodule "Repository/Day 24/Lc/1 - React Intro"]
+	path = Repository/Day 24/Lc/1 - React Intro
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-react-intro.git
