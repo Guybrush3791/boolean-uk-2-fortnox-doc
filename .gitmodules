@@ -220,3 +220,6 @@
 [submodule "Repository/Day 25/Theory/1 - Form Practice"]
 	path = Repository/Day 25/Theory/1 - Form Practice
 	url = https://github.com/boolean-uk/react-forms-practice.git
+[submodule "Repository/Day 26/Ex/1 - React Effect for Fetch"]
+	path = Repository/Day 26/Ex/1 - React Effect for Fetch
+	url = https://github.com/boolean-uk/react-effect-for-fetch.git
