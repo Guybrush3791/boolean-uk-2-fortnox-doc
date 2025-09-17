@@ -223,3 +223,6 @@
 [submodule "Repository/Day 26/Ex/1 - React Effect for Fetch"]
 	path = Repository/Day 26/Ex/1 - React Effect for Fetch
 	url = https://github.com/boolean-uk/react-effect-for-fetch.git
+[submodule "Repository/Day 26/Lc/1 - React Effect - FE"]
+	path = Repository/Day 26/Lc/1 - React Effect - FE
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-react-effect-fe.git
