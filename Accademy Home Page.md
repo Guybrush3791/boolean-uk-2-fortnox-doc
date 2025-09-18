@@ -13,7 +13,7 @@
 **Lesson end** 12.30
 
 **Day of the week** *Monday* to *Friday*
-**Date** from *August 12th* to *September 22th* (final project not included)
+**Date** from *August 12th* to *September 23th* (final project not included)
 
 ## 🧑‍🏫 Lessons
 
@@ -55,6 +55,7 @@
 - **Day `24`** [[Introduction to React, components, state and props]]
 - **Day `25`** [[React controlled and uncontrolled elements]]
 - **Day `26`** [[React effects]]
+- **Day `27`** [[React routing]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them

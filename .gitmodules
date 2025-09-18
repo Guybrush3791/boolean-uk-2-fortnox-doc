@@ -226,3 +226,6 @@
 [submodule "Repository/Day 26/Lc/1 - React Effect - FE"]
 	path = Repository/Day 26/Lc/1 - React Effect - FE
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-react-effect-fe.git
+[submodule "Repository/Day 27/Ex/1 - Hired Router"]
+	path = Repository/Day 27/Ex/1 - Hired Router
+	url = https://github.com/boolean-uk/react-hire-router-exemplar
