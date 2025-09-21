@@ -232,3 +232,6 @@
 [submodule "Repository/Day 28/Ex/1 - React Context"]
 	path = Repository/Day 28/Ex/1 - React Context
 	url = https://github.com/boolean-uk/react-context-api.git
+[submodule "Repository/Day 29/Theory/1 - Java Cloud Azure - 1"]
+	path = Repository/Day 29/Theory/1 - Java Cloud Azure - 1
+	url = https://github.com/boolean-uk/java-cloud-azure-day-3.git

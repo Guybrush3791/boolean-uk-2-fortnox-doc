@@ -39,6 +39,7 @@
 - **Day `15`** [[Spring security and SSO]]
 
 ---
+
 - **Day `16`** [[Lessons/2 - Java Back-end/Day 16/Challenge day|Challenge Day - 2]]
 
 ---
@@ -57,6 +58,9 @@
 - **Day `26`** [[React effects]]
 - **Day `27`** [[React routing]]
 - **Day `28`** [[React context API]]
+
+### DevOps
+
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
