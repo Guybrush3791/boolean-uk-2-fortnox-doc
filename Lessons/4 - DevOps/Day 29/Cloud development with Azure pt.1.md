@@ -1,7 +1,7 @@
 # Cloud development with Azure pt.1
 
 ## Accounts
-Azure Cloud accounts with temporary password
+[Azure Cloud](https://azure.microsoft.com/en-us/) accounts with temporary password
 
 ### Identity
 **teachingbooleanco.onmicrosoft.com**
