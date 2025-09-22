@@ -235,3 +235,6 @@
 [submodule "Repository/Day 29/Theory/1 - Java Cloud Azure - 1"]
 	path = Repository/Day 29/Theory/1 - Java Cloud Azure - 1
 	url = https://github.com/boolean-uk/java-cloud-azure-day-3.git
+[submodule "Repository/Day 30/Theory/1 - Java Cloud Azure - 2"]
+	path = Repository/Day 30/Theory/1 - Java Cloud Azure - 2
+	url = https://github.com/boolean-uk/java-cloud-azure-day-4.git
