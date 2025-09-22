@@ -1,5 +1,12 @@
 # Cloud development with Azure pt.1
 
+## Lc
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/u8I1foZxB1ZpMl8G5YC83ZM9eCdogFqd72E95j5Aj8DauXholGXtcUEiX_5cLF4.1P_Qs4hYln3DBUum" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/u8I1foZxB1ZpMl8G5YC83ZM9eCdogFqd72E95j5Aj8DauXholGXtcUEiX_5cLF4.1P_Qs4hYln3DBUum)
+
 ## Accounts
 [Azure Cloud](https://azure.microsoft.com/en-us/) accounts with temporary password
 
