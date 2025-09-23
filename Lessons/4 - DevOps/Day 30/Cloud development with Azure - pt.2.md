@@ -1,4 +1,11 @@
 # Cloud development with Azure pt.2
+## Lc
+### Video
+> [!note]- Video
+> <div class="iframe-container"> <iframe src="https://us02web.zoom.us/rec/share/np6EPS6DexZEGDXm-Pat4XSAXr3jmi156n8jr8tS3qMH7NiWtDbKJJzvV43FTRyY.B1LZySNKwlO4anVR" frameborder="0" allowfullscreen></iframe> </div>
+
+[Video link](https://us02web.zoom.us/rec/share/np6EPS6DexZEGDXm-Pat4XSAXr3jmi156n8jr8tS3qMH7NiWtDbKJJzvV43FTRyY.B1LZySNKwlO4anVR)
+
 ## Accounts
 ![[Cloud development with Azure - pt.1#Accounts]]
 
