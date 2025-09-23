@@ -62,6 +62,8 @@
 ### DevOps
 - **Day `29`** [[Cloud development with Azure - pt.1]]
 - **Day `30`** [[Cloud development with Azure - pt.2]]
+### Final Exam
+[[Review Case]]
 
 ## 🤦‍♂️ External Submodules
 If you miss some external submodule repo content, just issue following command in order to populate all of them
